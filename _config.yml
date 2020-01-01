@@ -3,11 +3,12 @@ author: Junhyuck Woo
 baseurl: 
 description: theme for jekyll
 github: http://www.github.com/Junhyuck-Woo
-twitter: http://www.twitter.com/
-facebook: http://www.facebook.com
 linkedin: http://www.linkedin.com/JunhyuckWoo
-email: rnpatel[at]me.com
-location: 42°2'16"N   70°12'47"W
+#twitter: http://www.twitter.com/
+#facebook: http://www.facebook.com
+linkedin: http://www.linkedin.com/JunhyuckWoo
+email: junhyuck.woo+blog[at]gmail.com
+location: Seoul, Republic of Korea
 disqus: diqus-username
 
 ##Make sure to edit the above fields, especially for disqus.
